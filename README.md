@@ -48,7 +48,7 @@ Parking-management-system/
 Compile the program:
 
 ```bash
-gcc -Wall -Wextra -std=c11 src/main.c src/parking.c -o parking -pthread
+gcc parking.c -o parking
 ```
 
 Run the program:
@@ -127,7 +127,7 @@ Parking-management-system/
 Compilare il programma:
 
 ```bash
-gcc -Wall -Wextra -std=c11 src/main.c src/parking.c -o parking -pthread
+gcc parking.c -o parking
 ```
 
 Eseguire il programma:
